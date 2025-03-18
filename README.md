@@ -12,7 +12,7 @@ I’ve been trying every day to solve this error, but without success.
 
 
 By debugging this code, the "fatal error" occurs in an "ops.analyze" command 
-around time = 42.421s of the earthquake. Perhaps by debugging inside OpenSees (in C++) 
+around time = 28.952s of the earthquake. Perhaps by debugging inside OpenSees (in C++) 
 it might be possible to identify what’s happening. But I don’t know how to do that.
 
 # Today, I decided to create a simple model where I could replicate this "fatal error" 
